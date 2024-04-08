@@ -1,5 +1,5 @@
-### Hi there 👋#check preview For full reading
-### انقر معاينة للقراة الكاملة
+### Hi there 👋#check code For full reading
+### انقر على كلمة الكود للقراة الكاملة
 
 <!--
 **ShadowTheam/ShadowTheam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
